@@ -1,4 +1,4 @@
-# GestionCompraFinalPHP
+Gestor de Compras en PHP 
 ### Integrantes Equipo 
 
 1. Gregory Iralbel Mendoza Duran - 20162503
